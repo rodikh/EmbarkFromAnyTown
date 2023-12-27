@@ -7,8 +7,7 @@ This is an Against the Storm mod that allows embarking from any existing settlem
 
 This mod requires [BepInEx](https://github.com/BepInEx/BepInEx) to be installed. Simply download the loader and unzip it into your game directory.
 
-The `Rodikh.ATS.EmbarkFromAnyTown.dll` file can then be dropped into the `BepInEx\plugins` subdirectory inside the game directory. You might have to make this directory yourself, or run the game once to have it made automatically.
-
+Extract the latest [release](https://github.com/rodikh/EmbarkFromAnyTown/releases) into your game folder.
 
 ## Credits and Thanks
 
